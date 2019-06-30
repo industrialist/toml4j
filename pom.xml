@@ -1,7 +1,7 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.leacox</groupId>
+  <groupId>industrialist</groupId>
   <artifactId>toml4j</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -20,16 +20,16 @@
       <distribution>repo</distribution>
     </license>
   </licenses>
-  <scm>
-    <connection>scm:git:git://github.com/johnlcox/toml4j.git</connection>
-    <developerConnection>scm:git:git@github.com:johnlcox/toml4j.git</developerConnection>
-    <url>https://github.com/johnlcox/toml4j</url>
-  </scm>
   <developers>
     <developer>
       <id>john</id>
       <name>John Leacox</name>
       <url>http://john.leacox.com</url>
+    </developer>
+    <developer>
+      <id>industrialist</id>
+      <name>Samuel Brooks</name>
+      <url>http://samuelbrooks.io</url>
     </developer>
   </developers>
   <properties>
